@@ -1,0 +1,531 @@
+,sno,DATE,HEADLINE,TICKER,COMPANY NAME,SECTOR,SUBSECTOR,SERIES,DATE OF LISTING,PAID UP VALUE,MARKET LOT,ISIN NUMBER,FACE VALUE
+0,14,2023-07-24,"BASF reports #Q1 earnings
+
+- Net profit down 42.7% at ₹112.7 cr vs ₹196.8 cr (YoY)
+
+- Revenue down 13.2% at ₹3,374.7 cr vs ₹3,887.8 cr (YoY)
+
+- EBITDA down 36.3% at ₹197.8 cr vs ₹310.7 cr (YoY)
+
+- EBITDA margin at 5.9% vs 8% (YoY)",BASF,BASF India Limited,Chemicals,Chemicals,EQ,17-May-95,10,1,INE373A01013,10
+1,15,2023-07-24,"PNB Housing Finance reports #Q1 earnings
+
+- Net profit up 47.8% at ₹347.3 cr vs ₹235 cr (YoY)
+
+- Revenue up 21% at ₹1,707.6 cr vs ₹1,410.7 cr (YoY)",PNB,Punjab National Bank,Banks - PSU,Banks - PSU,EQ,24-Apr-02,2,1,INE160A01022,2
+2,18,2023-07-24,"IDBI Bank reports Q1 earnings
+
+- Profit up 61.9% At ₹1,224.2 Cr Vs ₹756.4 Cr (YoY)
+
+- NII up 60.7% At ₹3,997.6 Cr Vs ₹2,487.5 Cr (YoY)
+
+- Gross NPA at 5.05% vs 6.38% (QoQ)
+
+- Net NPA at 0.44% vs 0.92% (QoQ)",IDBI,IDBI Bank Limited,Banks - PSU,Banks - PSU,EQ,20-Sep-95,10,1,INE008A01015,10
+3,20,2023-07-24,"SRF reports #Q1 numbers
+
+-Chemicals segment revenue down 3.6% at ₹1,647 cr vs ₹1,706 cr (YoY)
+
+-Chemicals segment EBIT down 12% at ₹461 cr vs ₹523 cr (YoY)
+
+-Chemicals segment EBIT margin at 28% vs 31% (YoY)",SRF,SRF Limited,Diversified,Diversified,EQ,18-Aug-03,10,1,INE647A01010,10
+4,37,2023-07-25,"ITC extends decline, down more than 3% after co's board gives in-principal nod for Hotels biz demerger",ITC,ITC Limited,,,EQ,23-Aug-95,1,1,INE154A01025,1
+5,83,2023-07-27,M&M down more than 5% after co replies to newsbreak to  acquire 3.53% stake in RBL Bank,M&M,Mahindra & Mahindra Limited,Auto,Auto,EQ,03-Jan-96,5,1,INE101A01026,5
+6,86,2023-07-27,"M&M sees biggest single-day drop since February 2022, erases market cap of more than Rs 11,300 cr after co announces acquisition of stake In RBL Bank",M&M,Mahindra & Mahindra Limited,Auto,Auto,EQ,03-Jan-96,5,1,INE101A01026,5
+7,87,2023-07-27,"NTPC says, the second unit of 660 MW capacity of Barh Super Thermal Power Station, Stage-I (3x660 MW) is declared commercially operational w.e.f Aug 1",NTPC,NTPC Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,05-Nov-04,10,1,INE733E01010,10
+8,99,2023-07-28,"#JustIN | PVR Inox opens a 5-screen multiplex at Plutone Mall, Rourkela, Odisha",PVR,PVR Limited,Media & Entertainment,Media & Entertainment,EQ,04-Jan-06,10,1,INE191H01014,10
+9,101,2023-07-28,"LT Foods reports #Q1 earnings. 
+
+▶️Net profit up 53.2% at  ₹137.4 cr vs ₹89.7 cr (YoY)
+▶️Revenue up 10.4% at ₹1,778.1 cr  vs ₹1,611.1 cr (YoY)
+▶️EBITDA up 28% at ₹213.6 cr  vs ₹166.9 cr (YoY)
+▶️EBITDA margin at 12% vs 10.4% (YoY)",LT,Larsen & Toubro Limited,Infrastructure - General,Infrastructure - General,EQ,23-Jun-04,2,1,INE018A01030,2
+10,115,2023-07-28,"RailTel falls more than 5% despite reporting strong Q1 earnings
+
+BEL rises more than 2% on strong Q1 results
+
+Intellect Design snaps 7-day losing streak, surges 20% post Q1 results
+
+Ajanta Pharma ends 3% higher but off highs following Q1 results",BEL,Bharat Electronics Limited,Computers - Hardware,Computers - Hardware,EQ,19-Jul-00,1,1,INE263A01024,1
+11,136,2023-07-29,"NTPC Q1 Update
+-
+-Coal Produced from Captive Mines-Commercial up 52.2% at 6.24 mt vs 4.10 mt YoY
+
+-Installed Capacity at 57,038 MW vs 57,119 MW (YoY)",NTPC,NTPC Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,05-Nov-04,10,1,INE733E01010,10
+12,137,2023-07-31,"#MarketAtClose | Laurus Labs sees buying after earnings, gains more than 4%
+
+UPL & Navin Fluorine close with minor cuts after a weak Q1
+
+Apollo Hospitals is weak ahead of its Q1 earnings, closes 3% lower
+
+GAIL closes in the green but off highs after co misses estimates in Q1",GAIL,GAIL (India) Limited,Oil Drilling And Exploration,Oil Drilling And Exploration,EQ,02-Apr-97,10,1,INE129A01019,10
+13,141,2023-08-01,Engineers India bags project worth Rs 837.34 cr from ONGC,ONGC,Oil & Natural Gas Corporation Limited,Oil Drilling,Oil Drilling,EQ,19-Jul-95,5,1,INE213A01029,5
+14,143,2023-08-01,GAIL results miss estimates but analysts put the spotlight on a sharp rise in gas transmission tariffs,GAIL,GAIL (India) Limited,Oil Drilling And Exploration,Oil Drilling And Exploration,EQ,02-Apr-97,10,1,INE129A01019,10
+15,158,2023-08-01,HFCL bags #order worth ₹137 crore from #RelianceRetail,HFCL,HFCL Limited,Telecommunications - Equipment,Telecommunications - Equipment,EQ,09-Mar-11,1,1,INE548A01028,1
+16,167,2023-08-01,"#Market fails to hold opening gains, remains in a range
+
+#Sensex falls 68 points to 66,459 & #Nifty 20 points to 19,734
+
+Nifty Bank slips 59 pts to 45,593 while Midcap Index rises 12 pts to 37,733
+
+PSU basket sees buying with coal India rising 5% & NTPC 3%",NTPC,NTPC Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,05-Nov-04,10,1,INE733E01010,10
+17,192,2023-08-03,FDC board to consider share buyback on August 9,FDC,FDC Limited,Pharmaceuticals,Pharmaceuticals,EQ,07-Aug-97,1,1,INE258B01022,1
+18,199,2023-08-03,"ICRA reports #Q1 earnings. 
+
+▶️Net profit up 90.1%  at ₹40.3 cr vs ₹21.2 cr (YoY)
+
+▶️Revenue up 11% at  at ₹102.7 cr vs ₹92.5 cr (YoY)
+
+▶️EBITDA up 9.5%  at ₹34.6 cr vs ₹31.6 cr (YoY)
+
+▶️Margin at 33.7% vs 34.2% (YoY)",ICRA,ICRA Limited,Miscellaneous,Miscellaneous,EQ,13-Apr-07,10,1,INE725G01011,10
+19,215,2023-08-03,"KEC International wins new orders worth Rs 1,065 crore across its various businesses",KEC,KEC International Limited,Power - Transmission & Equipment,Power - Transmission & Equipment,EQ,10-Mar-06,2,1,INE389H01022,2
+20,216,2023-08-03,"KEC International reports #Q1 earnings.
+
+▶️Net profit at up 36.5% at ₹42.3 cr vs ₹31 cr (YoY)
+▶️Revenue up 27.9% at ₹4,243.6 cr vs ₹3,318.1 cr (YoY)
+▶️EBITDA up 45% at ₹244.4 cr vs ₹168.5 cr (YoY)
+▶️EBITDA margin at 5.8% vs 5.1% (YoY)",KEC,KEC International Limited,Power - Transmission & Equipment,Power - Transmission & Equipment,EQ,10-Mar-06,2,1,INE389H01022,2
+21,225,2023-08-05,"CESC reports Q1 earnings
+
+- Net profit up 21.3% at Rs 347 cr vs Rs 286 cr (YoY)
+
+- Revenue up 5.1% at Rs 4,310 vs Rs 4,102 cr (YoY)
+
+- EBITDA up 38.2% at Rs 724 cr vs Rs 650 cr (YoY)
+
+- EBITDA margin at 16.8% vs 15.9% (YoY)",CESC,CESC Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,08-Feb-95,1,1,INE486A01021,1
+22,260,2023-08-07,"GHCL reports #Q1 earnings
+
+⭕️ Net profit up 32.6% at ₹426.3 cr vs ₹321.5 cr (YoY)
+
+⭕️ Revenue down 11.4% at ₹1,017 cr vs ₹1,148 cr (YoY)
+
+⭕️ EBITDA down 17.1% at ₹298 cr vs ₹359.2 cr (YoY)
+
+⭕️ Margin at 23.9% vs 31.3% (YoY)",GHCL,GHCL Limited,Chemicals,Chemicals,EQ,31-Jul-03,10,1,INE539A01019,10
+23,266,2023-08-07,"GNFC reports #Q1 earnings. 
+
+▶️Net profit down 84.6% at ₹88 cr vs ₹572 cr (YoY)
+▶️Revenue down 38.7% at ₹1,652 cr vs ₹2,696 cr (YoY)
+▶️EBITDA down 86.2% at ₹105 cr vs ₹763 cr (YoY)
+▶️Margin at 6.4% vs 28.3% (YoY)",GNFC,Gujarat Narmada Valley Fertilizers and Chemicals Limited,Fertilisers,Fertilisers,EQ,17-May-95,10,1,INE113A01013,10
+24,277,2023-08-07,#SEBI cancels the registration of MMTC as a stock broker for its involvement in illegal ‘paired contract’ in case pertaining to defunct National Spot Exchange,MMTC,MMTC Limited,Trading,Trading,EQ,09-Apr-12,1,1,INE123F01029,1
+25,284,2023-08-07,"BEML Limited gets the Letter of Acceptance from Bangalore Metro Rail Corporation (#BMRC) for the supply of rolling stock contract 5RS-DM worth approx. Rs. 3,177 crores",BEML,BEML Limited,Infrastructure - General,Infrastructure - General,EQ,05-Nov-03,10,1,INE258A01016,10
+26,287,2023-08-08,TCS partners with Indian Government for Government e-Marketplace (#GeM) platform,TCS,Tata Consultancy Services Limited,Computers,Computers,EQ,25-Aug-04,1,1,INE467B01029,1
+27,288,2023-08-08,"M&M July vehicle production up 26.7% at 69,877 units vs 55,139 units (YoY)",M&M,Mahindra & Mahindra Limited,Auto,Auto,EQ,03-Jan-96,5,1,INE101A01026,5
+28,292,2023-08-08,"GAIL | Pune Commissioner (Appeals) drops entire customs duty demand of ₹934 cr
+
+Alert: Customs Authority, Pune had demanded ₹934 cr from GAIL for September 2017-March 2022
+
+It will result in reduction of contingent liability by an amount of ₹934 cr, say co",GAIL,GAIL (India) Limited,Oil Drilling And Exploration,Oil Drilling And Exploration,EQ,02-Apr-97,10,1,INE129A01019,10
+29,311,2023-08-08,"#MarketAtClose | Adani Ports fails to hold gains seen post earnings, closes 3% off highs
+
+Hindalco closes the session with a cut of 2%, earnings beat estimates
+
+Coal India, Siemens & NMDC close in the red ahead of quarterly earnings
+
+Gland Pharma surges 20% on strong quarterly results",NMDC,NMDC Limited,Mining & Minerals,Mining & Minerals,EQ,03-Mar-08,1,1,INE584A01023,1
+30,364,2023-08-10,Mirza Intl says Redtape gets BSE & NSE nod to list on exchanges,BSE,BSE Limited,,,EQ,03-Feb-17,2,1,INE118H01025,2
+31,365,2023-08-11,"#MSCI Global Standard Index Review: PFC, REC, IDFC First among eight inclusions, ACC excluded",ACC,ACC Limited,Cement - Major,Cement - Major,EQ,20-Nov-96,10,1,INE012A01025,10
+32,366,2023-08-11,"#MSCI releases list of Stocks as part of August Global Standard Index review effective Sep 1, 2023
+
+INCLUSIONS: PFC, REC, Astral, Cummins, Ashok Leyland, Supreme Industries, IDFC First Bank & HDFC AMC
+
+EXCLUSIONS: ACC",ACC,ACC Limited,Cement - Major,Cement - Major,EQ,20-Nov-96,10,1,INE012A01025,10
+33,372,2023-08-11,"NBCC reports #Q1 earnings.
+
+▶️Net profit at ₹75 cr vs loss of ₹6.3 cr (YoY)
+▶️Revenue up 7.1% at ₹1,913.8 cr vs ₹1,786.7 cr (YoY)
+▶️EBITDA up 32.5% at ₹53.1 cr vs ₹40.1 cr (YoY)
+▶️EBITDA margin at 2.8% vs 2.2% (YoY)",NBCC,NBCC (India) Limited,Construction,Construction,EQ,12-Apr-12,1,1,INE095N01031,1
+34,381,2023-08-11,"NCC reports #Q1 earnings
+
+- Net profit up 33.9% at ₹173.5 cr vs ₹129.6 cr (YoY)
+
+- Revenue up 31.9% at ₹4,380.4 cr vs ₹3,321.4 cr (YoY)
+
+- EBITDA up 32.9% at ₹409.2 cr vs ₹307.9 cr (YoY)
+
+- Margin Flat At 9.3% (YoY)",NCC,NCC Limited,Construction & Contracting - Civil,Construction & Contracting - Civil,EQ,14-Oct-03,2,1,INE868B01028,2
+35,387,2023-08-11,"FACT Q1
+
+-Net profit down 47.6% at ₹71.8 cr vs ₹137 cr (YoY)
+-Revenue down 4.6% at ₹1,232.6 cr vs ₹1,292.4 cr (YoY)
+-EBITDA down 19.6% at ₹147 Cr vs ₹183 Cr (YoY)
+-EBITDA margin at 12% vs 14.1% (YoY)",FACT,Fertilizers and Chemicals Travancore Limited,Fertilisers,Fertilisers,EQ,12-Apr-95,10,1,INE188A01015,10
+36,388,2023-08-11,"KCP reports #Q1 earnings
+
+- Net profit up 14.8% at ₹49.4 cr vs ₹43 cr (YoY)
+
+- Revenue up 31.4% at ₹744.1 cr vs ₹566.4 cr (YoY)
+
+- EBITDA up 3.9% at ₹67.4 cr vs ₹65 cr (YoY)
+
+- EBITDA margin at 9.1% vs 11.5% (YoY)",KCP,KCP Limited,Cement - Major,Cement - Major,EQ,09-Apr-97,1,1,INE805C01028,1
+37,400,2023-08-11,"ACE Q1
+
+-Net Profit up 55.2% at ₹67.5 cr vs ₹44 cr (YoY)
+-Revenue up 31.0% at ₹651.6 cr vs ₹497.7 cr (YoY)
+-EBITDA at ₹81.6 cr vs ₹40.6 cr (YoY)
+-EBITDA Margin at 12.5% Vs 8.2% (YoY)",ACE,Action Construction Equipment Limited,Engineering - Heavy,Engineering - Heavy,EQ,26-Sep-06,2,1,INE731H01025,2
+38,406,2023-08-13,"ABB India reports #Q2 earnings. 
+
+▶️Net profit at ₹295.6 cr vs ₹140.3 cr (YoY)
+▶️Revenue up 22.2% at ₹2,508.6 cr vs ₹2,052.5 cr (YoY)
+▶️EBITDA up 75.4% at ₹348.7 cr vs ₹198.8 cr (YoY)
+▶️Margin at 13.9% vs 9.7% (YoY)",ABB,ABB India Limited,Electric,Electric,EQ,08-Feb-95,2,1,INE117A01022,2
+39,426,2023-08-14,"PVR Inox says it has achieved the feat of highest ever admissions and box office in a single day across its circuit on August 13, 2023. It saw 12.8 lac guests and earned Gross box office revenue of Rs 39.5 crore",PVR,PVR Limited,Media & Entertainment,Media & Entertainment,EQ,04-Jan-06,10,1,INE191H01014,10
+40,440,2023-08-14,"DCW reports #Q1 earnings
+
+- Net profit down 83% at ₹10 cr vs ₹58.7 cr (YoY)
+
+- Revenue down 43% at ₹438 cr vs ₹768.6 cr (YoY)
+
+- EBITDA down 58% at ₹51.1 cr vs ₹121.7 cr (YoY)
+
+- Margin at 11.7% vs 15.8% (YoY)",DCW,DCW Limited,Petrochemicals,Petrochemicals,EQ,25-May-95,2,1,INE500A01029,2
+41,460,2023-08-16,"#JustIN | Tejas Networks receives purchase order of Rs 7,492 cr from TCS to supply radio access network equipment to BSNL",TCS,Tata Consultancy Services Limited,Computers,Computers,EQ,25-Aug-04,1,1,INE467B01029,1
+42,463,2023-08-16,"NMDC cuts lump ore & fines prices by Rs 300/tonne each
+
+🔴Cuts lump ore price by Rs 300 to Rs 4,650/tonne
+
+🔴Cuts fines price by Rs 300 to Rs 3,910/tonne",NMDC,NMDC Limited,Mining & Minerals,Mining & Minerals,EQ,03-Mar-08,1,1,INE584A01023,1
+43,470,2023-08-16,"#MarketAtClose | Hind Copper slides over 6% after reporting a weak set of earnings for Q1
+
+IndiGo ends nearly 4% lower as Gangwal Family likely to have sold 4% stake
+
+Indus Tower takes a sharp knock as Voda Idea’s losses expand in Q1, down 6%
+
+Crompton, Coforge, Voda Idea, RBL Bank, sail are top Midcap losers",RBL,Rane Brake Lining Limited,Auto Ancillaries,Auto Ancillaries,EQ,20-Jun-08,10,1,INE244J01017,10
+44,489,2023-08-17,"RCF gets environmental clearance for new Nano Urea fertiliser plant at Chembur, Mumbai",RCF,Rashtriya Chemicals and Fertilizers Limited,Fertilisers,Fertilisers,EQ,07-Jan-98,10,1,INE027A01015,10
+45,497,2023-08-18,"Pune excise commissioner imposes Rs 14.31 Lakh penalty w.r.t Mahindra Veh Manufacturers
+
+M&M says, hopeful of a favourable outcome at the appellate level, the Pune excise order won’t have any material financial impact on the company",M&M,Mahindra & Mahindra Limited,Auto,Auto,EQ,03-Jan-96,5,1,INE101A01026,5
+46,525,2023-08-21,"#MarketAtClose | PVR Inox closes lower despite huge collections by movies, down 1%
+
+PNB Housing rises 3.5% on recovery of ₹784 cr from a corp non-performing a/c",PNB,Punjab National Bank,Banks - PSU,Banks - PSU,EQ,24-Apr-02,2,1,INE160A01022,2
+47,526,2023-08-21,"Market builds on to opening gains to close near day’s high
+
+#ensex rises 267 points to 65,216 & #Nifty 83 points to 19,394
+
+Nifty Bank gains 151 points to 44,002 & Midcap Index 311 points to 38,126
+
+IT, metals & select financials lift Nifty while Reliance, M&M drag",M&M,Mahindra & Mahindra Limited,Auto,Auto,EQ,03-Jan-96,5,1,INE101A01026,5
+48,547,2023-08-30,"NTPC approves Rs 15,530 cr investment for Lara Super Thermal Power Project",NTPC,NTPC Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,05-Nov-04,10,1,INE733E01010,10
+49,564,2023-09-12,"BSE companies erase market cap of nearly Rs 6 lk cr on Tuesday
+
+Midcap underperformance keeps mkt breadth in favour of declines
+
+NSE advance-decline ratio is at 1:8",BSE,BSE Limited,,,EQ,03-Feb-17,2,1,INE118H01025,2
+50,565,2023-09-12,"Firstsource slips 8% despite company holding investor day
+
+L&T Fin slips 3% as Bain Capital likely to have sold 2.6% stake via block deals
+
+BEL closes with a cut of over 7% as a brokerage downgrades the stock",BEL,Bharat Electronics Limited,Computers - Hardware,Computers - Hardware,EQ,19-Jul-00,1,1,INE263A01024,1
+51,566,2023-09-12,"All power stocks (large & midcaps) see a sharp fall, PFC, REC down 8% each
+
+Oil marketing cos are amongst top losers, stocks down 4-5%
+
+BHEL is top midcap loser, down more than 10% after block deals",BHEL,Bharat Heavy Electricals Limited,Engineering - Heavy,Engineering - Heavy,EQ,11-Nov-03,2,1,INE257A01026,2
+52,583,2023-09-13,"KEC International bags order worth Rs 1,145 cr in Saudi Arabia",KEC,KEC International Limited,Power - Transmission & Equipment,Power - Transmission & Equipment,EQ,10-Mar-06,2,1,INE389H01022,2
+53,589,2023-09-13,#JustIn | NBCC bags order worth Rs 180 crore from SAIL,NBCC,NBCC (India) Limited,Construction,Construction,EQ,12-Apr-12,1,1,INE095N01031,1
+54,597,2023-09-14,"NBCC up more than 8% on Rs 180 
+ cr order win, MoU to monetize non-core assets of RINL Vizag",NBCC,NBCC (India) Limited,Construction,Construction,EQ,12-Apr-12,1,1,INE095N01031,1
+55,606,2023-09-18,VA Tech WABAG enters in MoU with Al Jomaih Energy & Water for PPP Projects,WABAG,VA Tech Wabag Limited,Engineering,Engineering,EQ,13-Oct-10,2,1,INE956G01038,2
+56,615,2023-09-18,"HDFC AMC | NSE, BSE approve reclassification of abrdn Investment Management from promoter to public",BSE,BSE Limited,,,EQ,03-Feb-17,2,1,INE118H01025,2
+57,616,2023-09-18,"#MarketAtClose | Chola Invst under pressure ahead of QIP, down more than 2%
+
+Chemical names fall on dip in prices, GNFC is top loser, down 5%
+
+Titan sees buying ahead of quarterly data, rises to record high
+
+Market breadth favours declines, advance-decline ratio at 2:3",GNFC,Gujarat Narmada Valley Fertilizers and Chemicals Limited,Fertilisers,Fertilisers,EQ,17-May-95,10,1,INE113A01013,10
+58,617,2023-09-18,"#MarketAtClose | IT stocks close largely in the red on negative cues, persistent top loser
+
+Vodafone idea fails to hold gains as co denies reports of deal talks
+
+PVR Inox extends losses on demand w.r.t concerns ahead of World Cup",PVR,PVR Limited,Media & Entertainment,Media & Entertainment,EQ,04-Jan-06,10,1,INE191H01014,10
+59,630,2023-09-20,#SJVN Share Price: PFC may fund 70% of Rs 1.19 lakh crore renewable energy projects,PFC,Power Finance Corporation Limited,Finance,Finance,EQ,23-Feb-07,10,1,INE134E01011,10
+60,634,2023-09-20,"ABB to launch electric powertrain system for ArcelorMittal Nippon Steel's new steel mill in Hazira, Gujarat",ABB,ABB India Limited,Electric,Electric,EQ,08-Feb-95,2,1,INE117A01022,2
+61,643,2023-09-21,BPCL issues a corporate guarantee for a $200 million loan availed by subsidiary,BPCL,Bharat Petroleum Corporation Limited,Refineries,Refineries,EQ,13-Sep-95,10,1,INE029A01011,10
+62,647,2023-09-21,"ABB India bags power, propulsion and automation systems order order from Samskip Group for hydrogen-powered container vessels",ABB,ABB India Limited,Electric,Electric,EQ,08-Feb-95,2,1,INE117A01022,2
+63,656,2023-09-21,Govt to exercise #GreenshoeOption for SJVN #OFS,SJVN,SJVN Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,20-May-10,10,1,INE002L01015,10
+64,664,2023-09-22,"NCC JV bags orders worth ₹6,301 cr, co's share at ₹3,214 cr",NCC,NCC Limited,Construction & Contracting - Civil,Construction & Contracting - Civil,EQ,14-Oct-03,2,1,INE868B01028,2
+65,687,2023-09-25,TCS expands partnership with Standard Banks Group for custody & settlement operations,TCS,Tata Consultancy Services Limited,Computers,Computers,EQ,25-Aug-04,1,1,INE467B01029,1
+66,690,2023-09-25,"MCX set to go live on new tech platform on Oct 1, say sources",MCX,Multi Commodity Exchange of India Limited,Printing & Stationery,Printing & Stationery,EQ,09-Mar-12,10,1,INE745G01035,10
+67,712,2023-09-28,DCM Shriram secures ₹200 cr Sustainability Linked Loan (SLL) from HSBC India,DCM,DCM  Limited,Diversified,Diversified,EQ,29-Mar-95,10,1,INE498A01018,10
+68,718,2023-09-28,KP Energy gets notification of award from NTPC Renewable Energy Limited for a power transmission project,NTPC,NTPC Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,05-Nov-04,10,1,INE733E01010,10
+69,729,2023-09-29,Likhitha Infrastructure bags order worth ₹155.9 cr from BPCL,BPCL,Bharat Petroleum Corporation Limited,Refineries,Refineries,EQ,13-Sep-95,10,1,INE029A01011,10
+70,731,2023-09-29,"Sterling & Wilson Renewable Energy bags new order worth Rs 1,535 cr from NTPC REL in Khavda, Gujarat",NTPC,NTPC Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,05-Nov-04,10,1,INE733E01010,10
+71,733,2023-09-29,"SEBI has advised MCX & MCXCCL to furnish detailed comments on issues w.r.t Chennai Financial  Markets and Accountability by Oct 3, will place detailed documents before the SEBI Technical Advisory Committee meeting",MCX,Multi Commodity Exchange of India Limited,Printing & Stationery,Printing & Stationery,EQ,09-Mar-12,10,1,INE745G01035,10
+72,734,2023-09-29,IOC to give corporate guarantee up to $155 million for I0C Global Capital Management IFSC,IOC,Indian Oil Corporation Limited,Refineries,Refineries,EQ,24-Jul-96,10,1,INE242A01010,10
+73,743,2023-09-29,Indus Towers signs agreement with IOC Phinergy for the deployment of clean energy systems based on aluminium-air technology,IOC,Indian Oil Corporation Limited,Refineries,Refineries,EQ,24-Jul-96,10,1,INE242A01010,10
+74,761,2023-10-04,"Madras High Court to hear Chennai Financial Markets And Accountability's case against #MCX on November 29. CFMA filed a petition in Madras HC w.r.t technical issue in MCX platforms
+
+Alert: SEBI asked MCX to keep the new platform shift in abeyance on CFMA's plea",MCX,Multi Commodity Exchange of India Limited,Printing & Stationery,Printing & Stationery,EQ,09-Mar-12,10,1,INE745G01035,10
+75,762,2023-10-04,"MCX in focus
+Madras HC to now hear the plea filed by CFMA On November 29
+Alert: MCX’s agreement with 63 Moons is valid till December end",MCX,Multi Commodity Exchange of India Limited,Printing & Stationery,Printing & Stationery,EQ,09-Mar-12,10,1,INE745G01035,10
+76,775,2023-10-04,"Market at close | Ramco cements is top midcap gainer, rises 4% to hit record high
+
+Market breadth favours declines, NSE advance-decline ratio at 1:3
+
+BSE companies erase market cap of more than Rs 2.50 lakh cr on Wednesday",BSE,BSE Limited,,,EQ,03-Feb-17,2,1,INE118H01025,2
+77,776,2023-10-04,"Market at close | Strides pharma moves 3% higher on US FDA approval for HIV medicines
+
+NBFC names fall the most amongst midcaps, indiabulls hsg, M&M fin, l&t fin top losers
+
+Gold slide weighs on Muthoot & Manappuram Fin, stocks see a fall of 2-5%",M&M,Mahindra & Mahindra Limited,Auto,Auto,EQ,03-Jan-96,5,1,INE101A01026,5
+78,791,2023-10-09,"Hero Moto slips nearly 3% as Delhi police registers FIR in a old case
+
+MCX surges on SEBI’S nod to shift to new platform, stock hit record high
+
+Delta corp sees short covering, closes amongst top midcap gainers, up 3%",MCX,Multi Commodity Exchange of India Limited,Printing & Stationery,Printing & Stationery,EQ,09-Mar-12,10,1,INE745G01035,10
+79,792,2023-10-09,"Healthy Q2 updates lifts metropolis, stocks ends the session 2% higher
+
+Oil India surges 5% while ONGC gains 1% amid a sharp rise in crude
+
+Crude rise weighs on oil marketing cos, all 3 cos (IOC, HPCL, BPCL) slip 2% each",ONGC,Oil & Natural Gas Corporation Limited,Oil Drilling,Oil Drilling,EQ,19-Jul-95,5,1,INE213A01029,5
+80,804,2023-10-10,"Adani grp stocks see recovery in-line with mkt, grp adds Rs21,000 cr mkt cap
+
+Adani ports moves 4% higher following positive brokerage notes
+
+DRL closes in the red but off lows as co faces revlimid patent dispute
+
+BSE companies gain market cap of more than Rs3 lakh cr on Tuesday",BSE,BSE Limited,,,EQ,03-Feb-17,2,1,INE118H01025,2
+81,812,2023-10-10,"MCX announces going live on the new platform from October 16. And for the same, a mock session will be conducted on October 15",MCX,Multi Commodity Exchange of India Limited,Printing & Stationery,Printing & Stationery,EQ,09-Mar-12,10,1,INE745G01035,10
+82,825,2023-10-11,"#MarketAtClose | Cement stocks move higher on price hike reports, Ramco Cem top gainer
+
+MCX surges to record high with co going live on new platform from Oct 16
+
+USL gains more than 2% rpts suggest a vist by UK PM to India for FTA talks",MCX,Multi Commodity Exchange of India Limited,Printing & Stationery,Printing & Stationery,EQ,09-Mar-12,10,1,INE745G01035,10
+83,833,2023-10-13,SJVN gets LoA for a 100 MW solar power project worth Rs 600 cr in Rajasthan,SJVN,SJVN Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,20-May-10,10,1,INE002L01015,10
+84,845,2023-10-13,"IRB Infra: Executes definitive agreements to implement Samakhiyali Santalpur BOT project
+
+Total project cost Rs 2,092 cr",IRB,IRB Infrastructure Developers Limited,Construction & Contracting - Real Estate,Construction & Contracting - Real Estate,EQ,25-Feb-08,10,1,INE821I01014,10
+85,848,2023-10-13,".@MCXIndialtd says trading on Monday, October 16 will start at 10:45 am instead of 9 am, the change in time is applicable only for Monday, October 16
+
+CNBC-TV18 alert: On October 16, MCX is shifting to new trading software",MCX,Multi Commodity Exchange of India Limited,Printing & Stationery,Printing & Stationery,EQ,09-Mar-12,10,1,INE745G01035,10
+86,870,2023-10-16,BLS International Services signs an exclusive global visa outsourcing contract for Slovakia,BLS,BLS International Services Limited,Miscellaneous,Miscellaneous,EQ,14-Jun-16,1,1,INE153T01027,1
+87,871,2023-10-16,"MCX starts trading session on new software platform
+
+⭕️Brokers say trading on new software platform so far has been without glitches
+
+⭕️Alert: MCX had announced shifting to new platform from today",MCX,Multi Commodity Exchange of India Limited,Printing & Stationery,Printing & Stationery,EQ,09-Mar-12,10,1,INE745G01035,10
+88,878,2023-10-16,"NELCO reports #Q2 earnings. 
+
+▶️Net profit up 26.7% at ₹5.7 cr vs ₹5 cr (YoY)
+▶️Revenue up 1.6% at ₹76.6 cr vs ₹75.4 cr (YoY)
+▶️EBITDA down 2.1% at ₹13.9 cr vs ₹14.2 cr (YoY)
+▶️Margin at 18.1% vs 18.8% (YoY)",NELCO,NELCO Limited,Telecommunications - Equipment,Telecommunications - Equipment,EQ,28-May-03,10,1,INE045B01015,10
+89,881,2023-10-16,"#MarketAtClose | Dalmia bharat moves 2% higher after better-than-expected Q2
+
+Voda Idea & Bharti erase gains as SC rejects co’s plea w.r.t licence fee
+
+GNFC is top midcap gainer, rises 6% with healthy volumes",GNFC,Gujarat Narmada Valley Fertilizers and Chemicals Limited,Fertilisers,Fertilisers,EQ,17-May-95,10,1,INE113A01013,10
+90,898,2023-10-18,"NHPC says expected loss/ damage due to Sikkim flood at Rs 233.6 cr, and it’s covered under insurance",NHPC,NHPC Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,01-Sep-09,10,1,INE848E01016,10
+91,918,2023-11-13,"#MarketAtClose | Page Ind erases all the gains seen after its earnings, falls over 3%
+
+REC & PFC extends Samvat 2079 gains, rises in the range of 1-3%
+
+Glenmark Pharma’s below-than-expected Q2 drags the stock, down 5%
+
+Market breadth favours declines, advance-decline ratio at 2:3",PFC,Power Finance Corporation Limited,Finance,Finance,EQ,23-Feb-07,10,1,INE134E01011,10
+92,921,2023-11-13,"PVR Inox to open 6 screen multiplex Maison INOX at #Jio World Centre, Mumbai and 4  screen multiplex at Utkal Kanika Galleria Mall, Bhubaneswar, Odisha",PVR,PVR Limited,Media & Entertainment,Media & Entertainment,EQ,04-Jan-06,10,1,INE191H01014,10
+93,933,2023-11-20,ABB India forms strategic partnership with Titagarh Rail for Metro Projects in India,ABB,ABB India Limited,Electric,Electric,EQ,08-Feb-95,2,1,INE117A01022,2
+94,943,2023-11-28,BSE Ltd up more than 5% as Jefferies initiates buy call,BSE,BSE Limited,,,EQ,03-Feb-17,2,1,INE118H01025,2
+95,952,2023-11-28,"Tata Power Renewable Energy gets letter of award for development for 200 MW Firm & Dispatchable Renewable Energy Project with SJVN
+
+The installation is expected to offset 9 lakh metric tonnes of CO2 emissions annually",SJVN,SJVN Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,20-May-10,10,1,INE002L01015,10
+96,961,2023-11-29,BSE listed cos total market capitalization hits $4 trillion for the 1st time ever,BSE,BSE Limited,,,EQ,03-Feb-17,2,1,INE118H01025,2
+97,963,2023-11-29,BPCL board approves interim dividend of ₹21/sh for FY24,BPCL,Bharat Petroleum Corporation Limited,Refineries,Refineries,EQ,13-Sep-95,10,1,INE029A01011,10
+98,971,2023-11-29,"MarketAtClose | Newly listed IREDA ends >87% higher, second most successful listing in 2023
+
+BPCL up more than 1% after board approves interim dividend of Rs 21/sh
+
+BSE cos market cap crosses $4 trillion for the first time ever",BPCL,Bharat Petroleum Corporation Limited,Refineries,Refineries,EQ,13-Sep-95,10,1,INE029A01011,10
+99,1032,2024-01-05,NTPC gets GST demand order worth ₹100.8 Cr from 7 states,NTPC,NTPC Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,05-Nov-04,10,1,INE733E01010,10
+100,1034,2024-01-05,GAIL (@gailindia) & Vital Asia sign #LNG deal for 1 mtpa LNG for 10 years starting 2026,GAIL,GAIL (India) Limited,Oil Drilling And Exploration,Oil Drilling And Exploration,EQ,02-Apr-97,10,1,INE129A01019,10
+101,1048,2024-01-07,NTPC gets tax demand order of Rs 41.8 cr from Bihar GST dept,NTPC,NTPC Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,05-Nov-04,10,1,INE733E01010,10
+102,1057,2024-01-12,"CONCOR in focus
+Domestic volumes see a fall of 1.2% while EXIM volumes have risen 8% YoY
+
+Note: In Q2, domestic volumes were up 26% YoY",CONCOR,Container Corporation of India Limited,Transport & Logistics,Transport & Logistics,EQ,07-May-97,5,1,INE111A01025,5
+103,1076,2024-01-15,"NELCO reports Q3 earnings
+
+- Cons net profit up 23% at ₹6.1 cr vs 5 cr (YoY)
+
+- Revenue up12% at ₹183 cr vs ₹74 cr (YoY)
+
+- EBITDA up 6.4% at ₹16 cr vs ₹15 cr (YoY)
+
+- Margin at 19.5% vs 20.5% (YoY)",NELCO,NELCO Limited,Telecommunications - Equipment,Telecommunications - Equipment,EQ,28-May-03,10,1,INE045B01015,10
+104,1077,2024-01-15,"NTPC, CESC in focus
+Govt releases draft notification of Electricity (Amendment) Rules, 2024. Licence conditions eased for power generation companies. There won’t be any need to obtain transmission line license for grid connection",CESC,CESC Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,08-Feb-95,1,1,INE486A01021,1
+105,1093,2024-01-16,NBCC bags orders of ₹139 cr for construction works,NBCC,NBCC (India) Limited,Construction,Construction,EQ,12-Apr-12,1,1,INE095N01031,1
+106,1108,2024-02-03,"HIL reports its Q3 earnings👇
+
+>>Net loss at ₹7 cr Vs profit of ₹12.5 cr (YoY)
+
+>>Revenue up 2% at ₹784 cr Vs ₹767 cr (YoY)
+
+>>EBITDA down 66% at ₹17 cr Vs ₹50 cr (YoY)
+
+>>Margin at 2.2% Vs 6.5% (YoY)",HIL,HIL Limited,Cement - Products & Building Materials,Cement - Products & Building Materials,EQ,26-Apr-95,10,1,INE557A01011,10
+107,1121,2024-02-03,"NMDC in focus
+Chinese iron ore slips to lowest levels in last 2 weeks",NMDC,NMDC Limited,Mining & Minerals,Mining & Minerals,EQ,03-Mar-08,1,1,INE584A01023,1
+108,1122,2024-02-03,"#SEBI issues an administrative warning notifying one discrepancy for CRISIL Ratings, SEBI conducted an inspection of CRISIL Ratings in October 2023: CRISIL says",CRISIL,CRISIL Limited,Miscellaneous,Miscellaneous,EQ,28-Jun-95,1,1,INE007A01025,1
+109,1125,2024-02-03,"UPL reports #Q3 earnings👇
+
+➡️Net Loss of ₹1,217 cr vs profit of ₹1,087 cr (YoY)
+➡️Revenue down 27.7% at ₹9,887 cr vs ₹13,679 cr (YoY)
+➡️EBITDA down 86.3% at 416₹ cr vs ₹3,034 cr (YoY)
+➡️Margin at 4.21% vs 22.2% (YoY)",UPL,UPL Limited,Chemicals,Chemicals,EQ,23-Jan-04,2,1,INE628A01036,2
+110,1176,2024-02-07,"FDC reports its Q3
+
+➡️Net Profit up 94.6% at ₹79.2 cr vs ₹40.7 cr (YoY)
+➡️Revenue up 11.9% at ₹458.2 cr vs ₹409.3 cr (YoY)
+➡️EBITDA up 70.3% at ₹83.8 cr vs ₹49.2 cr (YoY)
+➡️Margin at 18.3% vs 12% (YoY)",FDC,FDC Limited,Pharmaceuticals,Pharmaceuticals,EQ,07-Aug-97,1,1,INE258B01022,1
+111,1191,2024-03-27,CRISIL upgrades #SuzlonEnergy ratings to ‘A-' with a Positive Outlook,CRISIL,CRISIL Limited,Miscellaneous,Miscellaneous,EQ,28-Jun-95,1,1,INE007A01025,1
+112,1201,2024-03-27,BSE releases list of 25 stocks available for T+0 settlement starting March 28 (tomorrow),BSE,BSE Limited,,,EQ,03-Feb-17,2,1,INE118H01025,2
+113,1205,2024-03-27,"#MarketAtClose | Reliance gets another positive brokerage note, stock near record high
+
+Nifty rejig leads to a sharp move in UPL & Shriram Finance in last hour
+
+Autos see a buying ahead of monthly data, Maruti, Bajaj Auto top gainers",UPL,UPL Limited,Chemicals,Chemicals,EQ,23-Jan-04,2,1,INE628A01036,2
+114,1207,2024-03-27,"Lupin ends at day’s low after co gets tax demand worth ₹477 crore for AY21-22
+
+Suzlon Energy rises 4% as CRISIL upgrades the rating of the company
+
+NSE advance decline ratio is at 3:4",CRISIL,CRISIL Limited,Miscellaneous,Miscellaneous,EQ,28-Jun-95,1,1,INE007A01025,1
+115,1233,2024-03-28,"IOC Board approves revising Cauvery Basin Project cost to ₹33,023 crore from ₹29,361 crore",IOC,Indian Oil Corporation Limited,Refineries,Refineries,EQ,24-Jul-96,10,1,INE242A01010,10
+116,1249,2024-04-01,NMDC rises despite iron ore hitting lowest levels in 10 months,NMDC,NMDC Limited,Mining & Minerals,Mining & Minerals,EQ,03-Mar-08,1,1,INE584A01023,1
+117,1252,2024-04-01,"Unit-2 of 660 MW of 1320 MW Maitree Super Thermal Power Plant at Rampal, Mongla, Bagerhat of Bangladesh India Friendship Power will be included in the installed & commercial capacity of NTPC Group w.e.f. 12.03.2024",NTPC,NTPC Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,05-Nov-04,10,1,INE733E01010,10
+118,1265,2024-04-01,"BEL FY24 total turnover up 13.7% at ₹19,700 crore vs ₹17,333 crore (YoY)
+
+➡️FY24 provisional revenue growth at 13.6% vs Companies guidance of 15%",BEL,Bharat Electronics Limited,Computers - Hardware,Computers - Hardware,EQ,19-Jul-00,1,1,INE263A01024,1
+119,1271,2024-04-01,"Prestige Estates jumps 8% as group raises ₹2,001 cr from ADIA, Kotak AIF
+
+PNB Hsg Fin rallies 13% after CARE & ICRA upgrade ratings
+
+GM Breweries up more than 12% on co’s plan to consider bonus issue",ICRA,ICRA Limited,Miscellaneous,Miscellaneous,EQ,13-Apr-07,10,1,INE725G01011,10
+120,1275,2024-04-01,"NMDC March Business Update
+
+➡️Total production at 4.86 mt vs 5.60 mt (YoY)
+
+➡️Total sales at 3.96 mt vs 4.84 mt (YoY)",NMDC,NMDC Limited,Mining & Minerals,Mining & Minerals,EQ,03-Mar-08,1,1,INE584A01023,1
+121,1303,2024-04-05,"Oil marketing companies remain under pressure on rising crude price
+
+HDFC Bank along with ITC & Kotak Bank keep Nifty losses in check
+
+Bajaj Finance amongst top Nifty losers after Q4 update",ITC,ITC Limited,,,EQ,23-Aug-95,1,1,INE154A01025,1
+122,1313,2024-04-05,"PNB Q4 Business Update 👇
+
+➡️Total Business up 2.9% QoQ & 8.8% YoY
+➡️Total Deposits up 3.5% QoQ & 7% YoY
+➡️Domestic Deposits up 3.5% QoQ & 6.6% YoY",PNB,Punjab National Bank,Banks - PSU,Banks - PSU,EQ,24-Apr-02,2,1,INE160A01022,2
+123,1361,2024-04-11,Maharashtra Seamless gets work order worth ₹674 crore from ONGC for supply of casing seamless pipes,ONGC,Oil & Natural Gas Corporation Limited,Oil Drilling,Oil Drilling,EQ,19-Jul-95,5,1,INE213A01029,5
+124,1363,2024-04-11,"PVR Inox launches 14-screen megaplex at Phoenix Mall Of Asia, Bengaluru",PVR,PVR Limited,Media & Entertainment,Media & Entertainment,EQ,04-Jan-06,10,1,INE191H01014,10
+125,1391,2024-04-16,ABB India launches two energy-efficient motor ranges for sustainable industrial growth,ABB,ABB India Limited,Electric,Electric,EQ,08-Feb-95,2,1,INE117A01022,2
+126,1393,2024-04-16,Noida International Airport & BPCL have signed an agreement for the #ATF pipeline,BPCL,Bharat Petroleum Corporation Limited,Refineries,Refineries,EQ,13-Sep-95,10,1,INE029A01011,10
+127,1413,2024-04-18,"IndusTowers up more than 5% on IIFL upgrade, Voda Idea FPO",IIFL,IIFL Finance Limited,Finance,Finance,EQ,17-May-05,2,1,INE530B01024,2
+128,1429,2024-04-18,"HDFC Bank, ICICI, Axis & ITC Bank drag Nifty most  
+
+Sensex falls 455 points to 72,489 & Nifty 152 points to 21,996  
+
+Nifty Bank slips 415 points to 47,069 & Midcap Index 241 points to 48,996  
+
+Fall in crude leads to a buying in oil mktg cos, stocks up 3-4%",ITC,ITC Limited,,,EQ,23-Aug-95,1,1,INE154A01025,1
+129,1431,2024-04-18,"MarketAtClose | Power grid moves 2% higher on positive brokerage note 
+
+ Fall in crude leads to a buying in oil mktg cos, stocks up 3-4%  
+
+MCX sees buying ahead of quarterly earning, stock near record high  
+
+City Gas cos come under pressure, IGL & MGL fall up to 5% each",IGL,Indraprastha Gas Limited,Hospitals & Medical Services,Hospitals & Medical Services,EQ,26-Dec-03,2,1,INE203G01027,2
+130,1482,2024-04-22,"GAIL in focus
+Following revision in tariff for GSPL, PNGRB tells @CNBCTV18News, there will be revision in tariffs for GAIL as well",GAIL,GAIL (India) Limited,Oil Drilling And Exploration,Oil Drilling And Exploration,EQ,02-Apr-97,10,1,INE129A01019,10
+131,1501,2024-04-23,"M&M Financial slips in trade, stock falls more than 4% but off lows after co delays #Q4FY24 results as a fraud of upto Rs 150 cr was detected at one of its branch in the North East. The fraud involves forgery of KYC documents",M&M,Mahindra & Mahindra Limited,Auto,Auto,EQ,03-Jan-96,5,1,INE101A01026,5
+132,1506,2024-04-23,M&M Fin defers board meet to consider #Q4Results to May 30,M&M,Mahindra & Mahindra Limited,Auto,Auto,EQ,03-Jan-96,5,1,INE101A01026,5
+133,1513,2024-04-23,"NBCC bags new work orders worth ₹23,500 cr in FY24 vs ₹6,700 cr YoY",NBCC,NBCC (India) Limited,Construction,Construction,EQ,12-Apr-12,1,1,INE095N01031,1
+134,1516,2024-04-23,"Aditya Birla group stocks surge, Grasim, ABFRL & AB Cap rise 4-9%
+
+Vodafone Idea gains more than 11% as its ₹18,000 crore FPO is subscribed 7x
+
+Tata Cons, MCX, ICICI Pru & SBI card close with gains ahead of earnings
+
+Nestle surges 3% from day’s low ahead of its quarterly results tomorrow",ABFRL,Aditya Birla Fashion and Retail Limited,Retail,Retail,EQ,17-Jul-13,10,1,INE647O01011,10
+135,1517,2024-04-23,"Auto stocks see buying, Maruti’s share price crosses 13,000 for the 1st time
+
+Sun Pharma ends the session as top Nifty loser, down more than 3%
+
+Realty stocks, especially Oberoi & DLF see buying, gain 3% each",DLF,DLF Limited,Construction & Contracting - Real Estate,Construction & Contracting - Real Estate,EQ,05-Jul-07,2,1,INE271C01023,2
+136,1520,2024-04-23,"NELCO reports #Q4 earnings👇
+
+➡️Net Profit up 7% at ₹6.1 cr vs ₹5.7 cr (YoY)
+➡️Revenue down 0.5% at ₹81.6 cr vs ₹82 cr (YoY)
+➡️EBITDA down 12.5% at ₹14.7 cr vs ₹16.8 cr (YoY)
+➡️Margin at 18% vs 20.5% (YoY)",NELCO,NELCO Limited,Telecommunications - Equipment,Telecommunications - Equipment,EQ,28-May-03,10,1,INE045B01015,10
+137,1529,2024-04-24,GAIL to shut Dabhol LNG terminal from may 15 ahead of monsoon #rains,GAIL,GAIL (India) Limited,Oil Drilling And Exploration,Oil Drilling And Exploration,EQ,02-Apr-97,10,1,INE129A01019,10
+138,1532,2024-04-24,"AllcargoLogistics ⚡️March LCL volume up 9% MoM & up 3% YoY
+
+⚡️March FCL volume up 7% MoM, up 11% YoY",FCL,Fineotex Chemical Limited,,,EQ,15-Jan-15,2,1,INE045J01026,2
+139,1537,2024-04-24,"Insurance stocks under pressure as ICICI Pru reports mixed Q4
+
+Vodafone Idea reverses Tuesday’s gains, slips 9%, Indus Twrs falls too
+
+UBL surges 10% tracking India volume growth of Heineken",UBL,United Breweries Limited,,,EQ,28-Jul-08,1,1,INE686F01025,1
+140,1616,2024-05-01,Single Stock Derivatives Expiry To Be On Second Thursday From July 1: BSE,BSE,BSE Limited,,,EQ,03-Feb-17,2,1,INE118H01025,2
+141,1629,2024-05-03,"MRF reports #Q4 earnings
+
+➡️Net profit down 7.6% at ₹379.6 cr vs ₹410.7 cr (YoY)
+➡️Revenue up 8.6 % at ₹ 6,215.1 cr vs ₹ 5,725.4 cr (YoY)
+➡️EBITDA up 5% at ₹885.7 cr vs ₹843.1 cr (YoY)
+➡️Margin at 14.3% vs 14.7 % (YoY)",MRF,MRF Limited,Tyres,Tyres,EQ,18-Sep-96,10,1,INE883A01011,10
+142,1649,2024-05-07,"IRB Infra reports #Q4 earnings👇
+
+➡️Net profit up 45.1% at ₹188.9 cr vs ₹130.2 cr (YoY)
+➡️Revenue up 27.2% at ₹2,061.2 cr vs ₹1,620 cr (YoY)
+➡️EBITDA up 17.3% at ₹889.9 cr vs ₹758.7 cr (YoY)
+➡️Margin at 43.2% vs 46.8% (YoY)",IRB,IRB Infrastructure Developers Limited,Construction & Contracting - Real Estate,Construction & Contracting - Real Estate,EQ,25-Feb-08,10,1,INE821I01014,10
+143,1661,2024-05-08,NBCC gets work orders worth ₹400 crore in Chhattisgarh & Kerala,NBCC,NBCC (India) Limited,Construction,Construction,EQ,12-Apr-12,1,1,INE095N01031,1
+144,1668,2024-05-08,"BSE reports #Q4 earnings
+
+Cons net profit up 20.7% at ₹106.9 cr vs ₹88.6 cr (YoY)
+Cons revenue at ₹544.8 cr vs ₹259 cr (YoY)
+Board recommends final dividend of ₹15/sh",BSE,BSE Limited,,,EQ,03-Feb-17,2,1,INE118H01025,2
+145,1681,2024-05-09,"IOB reports #Q4 earnings👇
+
+➡️Net profit up 24.3% at ₹808.1 cr vs ₹650 cr (YoY)
+
+➡️NII up 21.4% at ₹2,763.2 cr vs ₹2,276.1 cr (YoY)
+
+➡️Gross NPA at 3.10% vs 3.90% (QoQ)
+
+➡️Net NPA at 0.57% vs 0.62% (QoQ)",IOB,Indian Overseas Bank,Banks - PSU,Banks - PSU,EQ,07-Dec-00,10,1,INE565A01014,10
+146,1689,2024-05-12,"TCI Express reports #Q4 earnings👇
+
+➡️Net profit down 17.9% at ₹31.6 cr vs ₹38.5 cr (YoY)
+
+➡️Revenue down 2.8% at ₹317.1 cr vs ₹326.3 cr (YoY)
+
+➡️EBITDA down 17% at ₹44.9 cr vs ₹54.1 cr (YoY)
+
+➡️Margin at 14.2% vs 16.6% (YoY)",TCI,Transport Corporation of India Limited,Transport,Transport,EQ,21-Jan-02,2,1,INE688A01022,2
+147,1697,2024-05-12,"ITDC Q4
+
+--Net Profit Up 68% At Rs 32.4 Cr Vs Rs 10.3 Cr (YoY)
+--Revenue Down 3.8% At Rs 147.8 Cr Vs Rs 153.7 Cr (YoY)
+--EBITDA Up 62% At Rs 32.4 Cr Vs Rs 20 Cr (YoY)
+--Margin At 22% Vs 13% (YoY)",ITDC,India Tourism Development Corporation Limited,,,EQ,30-Dec-16,10,1,INE353K01014,10
+148,1701,2024-05-12,"BEML reports #Q4 earnings👇
+
+➡️Net profit up 62.8% at ₹256.8 cr vs ₹157.7 cr (YoY)
+
+➡️Revenue up 9.1% at ₹1,513.7 cr vs ₹1,129.4 cr (YoY)
+
+➡️EBITDA up 29.2% at ₹370.4 cr vs ₹286.7 cr (YoY)
+
+➡️Margin at 24.5% vs 20.7% (YoY)",BEML,BEML Limited,Infrastructure - General,Infrastructure - General,EQ,05-Nov-03,10,1,INE258A01016,10

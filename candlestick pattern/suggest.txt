@@ -1,0 +1,248 @@
+Company name=The India Cements Limited
+Suggestion=Buy stock
+
+
+Company name=Indo Amines Limited
+Suggestion=Buy stock
+
+
+Company name=Ind-Swift Limited
+Suggestion=Sell stock
+
+
+Company name=Infomedia Press Limited
+Suggestion=Sell stock
+
+
+Company name=Inox Wind Limited
+Suggestion=Buy stock
+
+
+Company name=Intense Technologies Limited
+Suggestion=Buy stock
+
+
+Company name=India Tourism Development Corporation Limited
+Suggestion=Buy stock
+
+
+Company name=IL&FS Investment Managers Limited
+Suggestion=Buy stock
+
+
+Company name=Inox Wind Energy Limited
+Suggestion=Sell stock
+
+
+Company name=Nandani Creation Limited
+Suggestion=Buy stock
+
+
+Company name=Jayaswal Neco Industries Limited
+Suggestion=Buy stock
+
+
+Company name=Jayshree Tea & Industries Limited
+Suggestion=Buy stock
+
+
+Company name=JK Cement Limited
+Suggestion=Sell stock
+
+
+Company name=Jullundur Motor Agency (Delhi) Limited
+Suggestion=Buy stock
+
+
+Company name=Jubilant Foodworks Limited
+Suggestion=Sell stock
+
+
+Company name=Jubilant Ingrevia Limited
+Suggestion=Buy stock
+
+
+Company name=Just Dial Limited
+Suggestion=Buy stock
+
+
+Company name=Jyoti Structures Limited
+Suggestion=Buy stock
+
+
+Company name=Karur Vysya Bank Limited
+Suggestion=Sell stock
+
+
+Company name=Kaya Limited
+Suggestion=Buy stock
+
+
+Company name=KBC Global Limited
+Suggestion=Buy stock
+
+
+Company name=KDDL Limited
+Suggestion=Buy stock
+
+
+Company name=KEI Industries Limited
+Suggestion=Buy stock
+
+
+Company name=Keynote Financial Services Limited
+Suggestion=Buy stock
+
+
+Company name=Kirloskar Brothers Limited
+Suggestion=Buy stock
+
+
+Company name=K.M.Sugar Mills Limited
+Suggestion=Buy stock
+
+
+Company name=Kothari Petrochemicals Limited
+Suggestion=Buy stock
+
+
+Company name=Kothari Products Limited
+Suggestion=Buy stock
+
+
+Company name=KPIT Technologies Limited
+Suggestion=Buy stock
+
+
+Company name=Krebs Biochemicals and Industries Limited
+Suggestion=Buy stock
+
+
+Company name=Ksolves India Limited
+Suggestion=Buy stock
+
+
+Company name=Kuantum Papers Limited
+Suggestion=Buy stock
+
+
+Company name=Laxmi Cotspin Limited
+Suggestion=Buy stock
+
+
+Company name=Liberty Shoes Limited
+Suggestion=Buy stock
+
+
+Company name=Lotus Eye Hospital and Institute Limited
+Suggestion=Buy stock
+
+
+Company name=Larsen & Toubro Limited
+Suggestion=Sell stock
+
+
+Company name=Mahindra & Mahindra Limited
+Suggestion=Buy stock
+
+
+Company name=Maan Aluminium Limited
+Suggestion=Buy stock
+
+
+Company name=Mahindra EPC Irrigation Limited
+Suggestion=Buy stock
+
+
+Company name=Mahindra Logistics Limited
+Suggestion=Buy stock
+
+
+Company name=Maharashtra Seamless Limited
+Suggestion=Buy stock
+
+
+Company name=Malu Paper Mills Limited
+Suggestion=Buy stock
+
+
+Company name=Manaksia Limited
+Suggestion=Buy stock
+
+
+Company name=Manali Petrochemicals Limited
+Suggestion=Sell stock
+
+
+Company name=Mangalore Chemicals & Fertilizers Limited
+Suggestion=Buy stock
+
+
+Company name=Marine Electricals (India) Limited
+Suggestion=Buy stock
+
+
+Company name=Max India Limited
+Suggestion=Sell stock
+
+
+Company name=MBL Infrastructure Limited
+Suggestion=Buy stock
+
+
+Company name=Medicamen Biotech Limited
+Suggestion=Sell stock
+
+
+Company name=Menon Bearings Limited
+Suggestion=Buy stock
+
+
+Company name=Mangalam Global Enterprise Limited
+Suggestion=Buy stock
+
+
+Company name=MODISON LIMITED
+Suggestion=Buy stock
+
+
+Company name=Moksh Ornaments Limited
+Suggestion=Buy stock
+
+
+Company name=MRF Limited
+Suggestion=Buy stock
+
+
+Company name=Nagreeka Capital & Infrastructure Limited
+Suggestion=Buy stock
+
+
+Company name=Nahar Poly Films Limited
+Suggestion=Buy stock
+
+
+Company name=Natco Pharma Limited
+Suggestion=Sell stock
+
+
+Company name=N. B. I. Industrial Finance Company Limited
+Suggestion=Buy stock
+
+
+Company name=Nandan Denim Limited
+Suggestion=Buy stock
+
+
+Company name=Ndr Auto Components Limited
+Suggestion=Buy stock
+
+
+Company name=Palred Technologies Limited
+Suggestion=Buy stock
+
+
+Company name=Panacea Biotec Limited
+Suggestion=Buy stock
+
+
